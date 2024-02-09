@@ -4,10 +4,6 @@
 
 - CRUD on all the registrations 
 
-### Prerequisites
-
-Specify any prerequisites or dependencies that users need to have installed before they can use your app.
-
 ### Installation
 
 Provide step-by-step instructions on how to install your application.
